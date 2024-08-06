@@ -24,9 +24,10 @@
 ## Editor🎥
 <img src="https://github.com/user-attachments/assets/bb913c05-1b8a-4404-a626-54fec4d1f733" width="50"> <img src="https://github.com/user-attachments/assets/bdb7f159-4bc6-4c85-b63d-53e84d35c672" width="50">
 
+## ⚡ GitHub Stats
 
-
-
+| [![Rafi GitHub stats](https://github-readme-stats.vercel.app/api?username=rahelcecilia)](https://github.com/rahelcecilia/github-readme-stats) | [![Top Langs Aan](https://github-readme-stats.vercel.app/api/top-langs/?username=rahelcecilia&layout=compact&)](https://github.com/rahelcecilia/github-readme-stats) |
+|---|---|
 
 
 
