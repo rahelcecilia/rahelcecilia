@@ -1,8 +1,8 @@
 ## Hi there, I'm Rahel!👋
 
 🔭 Fresh graduate in Informatics Engineering from Institut Teknologi Sepuluh Nopember. <br><br>
-🌱 Machine Learning enthusiast.<br><br>
-🧠 Skilled in Python, Big Data, SQL, Data Visualization, PHP, HTML, CSS, and Bootstrap.<br><br>
+🌱 Data enthusiast.<br><br>
+🧠 Skilled in Python, Machine Learning, SQL, Power BI, PHP, HTML, CSS, and Bootstrap.<br><br>
 📑 Portfolio: <a href="https://github.com/rahelcecilia/myportfolio">Github</a>,  <a href="https://rahelcecilia.purba.or.id">Website</a> <br><br>
 📫 Reach me at rahelcecilia9@gmail.com.<br>
 ## 🌐 Socials
