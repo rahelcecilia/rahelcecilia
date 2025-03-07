@@ -16,7 +16,7 @@
       <h3> Machine Learning </h3>
   &nbsp;&nbsp;    <img src="https://skillicons.dev/icons?i=python,sklearn" style="max-width: 100%;"> <img src = "https://github.com/user-attachments/assets/c3a8294b-8be3-4d11-bf92-5d12cda882fc" width="120">  <img src =   "https://github.com/user-attachments/assets/3ef618d5-e850-4ced-ac12-13dd929e4121" width = "110"> &nbsp; &nbsp; <br>
       <h3> Data Analysis </h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" style="max-width: 100%;"> <img src = "https://github.com/user-attachments/assets/75e11b6d-a553-45ac-8487-ec087bd0eaf4" width="110">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" style="max-width: 100%;">  &nbsp; <img src = "https://github.com/user-attachments/assets/ace74114-995c-4e53-803b-a4b34d6c572b" width = "100">  &nbsp; <img src = "https://github.com/user-attachments/assets/75e11b6d-a553-45ac-8487-ec087bd0eaf4" width="110">
       <br>
     </th> 
     <th>
